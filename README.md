@@ -7,8 +7,6 @@ To mitigate significant revenue loss due to high customer churn, this analysis i
 
 # Methodology:
 ![BDE Data Model](https://github.com/user-attachments/assets/4b3be928-f7a4-412a-b518-33c6fad85d8f)
-![image](https://github.com/user-attachments/assets/8bf52d7f-9348-402c-92ad-df81c4d63795)
-
 
 * EDA
 * Product Funnel Analysis
