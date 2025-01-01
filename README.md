@@ -1,4 +1,4 @@
-# Subscription-Cancelation-Analysis - Reducing Customer Churn: Analysis Notes:
+# Subscription-Cancelation-Analysis - Reducing Customer Churn: 
 
 
 #  Executive Summary:
